@@ -1,6 +1,6 @@
 # Phantom
 
-A native macOS creative media toolkit.
+A native macOS creative media toolkit. Unfortunately there is no Windows support, and I do not plan to add it for the foreseeable future due to current workloads.
 
 Phantom I brings creative workflows together in one application, including graphic design, photo editing, video editing, colour grading, motion blur, and more.
 <p align="center">
@@ -34,7 +34,7 @@ Phantom includes a range of functions, including:
     - Free downloading from YouTube to your device
     - Perfect for videos or sound effects
     - Quality adjustable, container adjustable (.mov, .mp4, .mp3, etc.)
-    - Sourced from [yt-dlp](https://github.com/yt-dlp/yt-dlp) **yt-dlp's code was created by the creators of yt-dlp found at the link.** yt-dlp has Windows support; if you would like to download it please head to yt-dlp's repo.
+    - Sourced from [yt-dlp](https://github.com/yt-dlp/yt-dlp) **yt-dlp's code belongs to it's contributors, found on the repo.** yt-dlp has Windows support; if you would like to download it please head to yt-dlp's repo.
   - Print
     - Printer Presets
     - Perfect for printing out photos or your graphic designs.
