@@ -9,13 +9,13 @@ Phantom I brings creative workflows together in one application, including graph
 Download the latest version of Phantom I from the [Releases](../../releases) page.
 Unfortunately Phantom isn't signed by MacOS as it requires an Apple Developer subscription which is paid and this is a casual project. 
 Therefore you will need to proceed with the following steps the first time you install Phantom. Method 1 or Method 2.
-      
-      **Method 1**
+
+**Method 1**
   1. Open Terminal
-  2. Copy and paste this string: xattr -dr com.apple.quarantine /Applications/Phantom.app
+  2. Copy and paste this string: ```xattr -dr com.apple.quarantine /Applications/Phantom.app```
   3. Open Phantom
 
-      **Method 2**
+ **Method 2**
   1. Open Phantom
   2. Go to your Mac's "Privacy and Security" in Settings
   3. Scroll to the bottom
