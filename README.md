@@ -17,6 +17,44 @@ Phantom I brings creative workflows together in one application, including graph
   />
 </p>
 
+## Functions
+
+Phantom includes a range of functions, including:
+  - Graphic Design
+    - Canvas + Documents
+    - Layers
+    - Typography
+    - Additional Editing
+  - Motion Blur
+    - Motion blur application to your videos for silky smooth videos
+    - Uses frame blending + interpolation
+    - Useful for high fps footage, motion graphics, video gameplay etc.
+    - Sourced from [blur](https://github.com/f0e/blur), **blur's code belongs to f0e.** blur has Windows support; if you would like to download it please head to f0e's repo.
+  - YouTube Downloader
+    - Free downloading from YouTube to your device
+    - Perfect for videos or sound effects
+    - Quality adjustable, container adjustable (.mov, .mp4, .mp3, etc.)
+    - Sourced from [yt-dlp](https://github.com/yt-dlp/yt-dlp) **yt-dlp's code was created by the creators of yt-dlp found at the link.** yt-dlp has Windows support; if you would like to download it please head to yt-dlp's repo.
+  - Print
+    - Printer Presets
+    - Perfect for printing out photos or your graphic designs.
+  - Photo + RAW Processing
+    - Full range of adjustments
+    - LUT application
+    - Colour wheels
+    - Export JPG, JPEG, PNG or TIFF
+  - Video + RAW Processing
+    - Full range of adjustments
+    - LUT application
+    - Colour wheels
+    - Export .mov, .mp4
+  - Audio Joiner
+  - Video Timeline
+    - Timeline editing
+    - Audio editing
+    - Transitions + Effects
+  - Background remover
+
 ## Download
 
 Download the latest version of Phantom I from the [Releases](../../releases) page.
