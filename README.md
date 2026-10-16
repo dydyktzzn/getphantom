@@ -1,4 +1,4 @@
-# Phantom I
+# Phantom
 
 A native macOS creative media toolkit.
 
