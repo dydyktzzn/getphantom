@@ -3,6 +3,7 @@
 A native macOS creative media toolkit.
 
 Phantom I brings creative workflows together in one application, including graphic design, photo editing, video editing, colour grading, motion blur, and more.
+<img width="2000" height="2000" alt="Black and White Simple Bold Typographic Creative Studio Logo (2)" src="https://github.com/user-attachments/assets/5ad5d784-6d8a-4d0a-b300-d3a155afd767" /> <img width="1254" height="1254" alt="20fb6578-0893-4aed-883f-2d997a141312" src="https://github.com/user-attachments/assets/2e3bb91e-d06f-4b3b-b1ec-29fa10f57c3d" />
 
 ## Download
 
